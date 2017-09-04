@@ -1,0 +1,8 @@
+[package]
+name = "guessing_game"
+version = "0.1.0"
+authors = ["Domenick De Luca"]
+
+[dependencies]
+
+rand = "0.3.14"
